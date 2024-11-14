@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+header {
+  background-color: aqua;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #ccc;
+  align-items: center;
+  height: 4rem;
+}
+
+nav ul {
+  display: flex;
+  gap: 2rem;
+}
+
+li a {
+  color: #000
+  
+}
