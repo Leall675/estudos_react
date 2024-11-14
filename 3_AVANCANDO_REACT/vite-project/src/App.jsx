@@ -18,7 +18,7 @@ function App() {
       {/* PROPS */}
       <PropsName name="Matheus" age="22"/>
       {/* Desestruturando PROPS */}
-      <DestructProps marca="Matheus" km={22} price={25.000} />
+      <DestructProps marca="Matheus" km={22} price={26.000} />
     </>
   )
 }
